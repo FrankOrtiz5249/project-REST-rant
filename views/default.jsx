@@ -7,7 +7,7 @@ function Def (html) {
                 <title>Title</title>
             </head>
             <body>
-                {html.childeren}
+                {html.children}
             </body>
         </html>
     )
