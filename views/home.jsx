@@ -17,7 +17,7 @@ function home () {
                     </a>
             </main>
         </Def>
-    )
+    );
 }
 
-module.exports = home
+module.exports = home;
